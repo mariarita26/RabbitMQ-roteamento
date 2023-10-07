@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Maria Rita\IFPB\P6\RabbitMQ-routing\rabbitmq-routing\rabbitmq-routing\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+2565356412.index
+1865797976.index
